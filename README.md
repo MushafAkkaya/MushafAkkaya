@@ -15,7 +15,7 @@ I am passionate about software development and technology. I particularly enjoy 
 ## 📫 How to Reach Me
 
 - **Email:** mushafakkaya@hotmail.com
-- **LinkedIn:** [[your LinkedIn profile link]](https://www.linkedin.com/in/mushaf-akkaya/)
+- **LinkedIn:** https://www.linkedin.com/in/mushaf-akkaya/
 
 ## 📊 GitHub Stats
 
@@ -25,4 +25,4 @@ I am passionate about software development and technology. I particularly enjoy 
 
 ---
 
-⭐️ Visit my profile at [[yourusername](https://github.com/yourusername).](https://github.com/MushafAkkaya)
+⭐️ Visit my profile at https://github.com/MushafAkkaya
