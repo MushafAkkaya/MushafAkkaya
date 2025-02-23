@@ -17,12 +17,6 @@ I am passionate about software development and technology. I particularly enjoy 
 - **Email:** mushafakkaya@hotmail.com
 - **LinkedIn:** https://www.linkedin.com/in/mushaf-akkaya/
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ---
 
 ⭐️ Visit my profile at https://github.com/MushafAkkaya
