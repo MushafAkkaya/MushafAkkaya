@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, I'm Mushaf! 👋
 
-<!--
-**MushafAkkaya/MushafAkkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am passionate about software development and technology. I particularly enjoy working in areas such as software development, web development, information technologies etc. I am always eager to learn and improve myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Programming Languages:** C#, JavaScript
+- **Frontend:** HTML, CSS, React
+- **Backend:** .Net, .Net Core, NodeJs
+- **Databases:** Microsoft SQL Server, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, VS, VS Code, Servers, IIS, Postman
+
+## 📫 How to Reach Me
+
+- **Email:** mushafakkaya@hotmail.com
+- **LinkedIn:** [[your LinkedIn profile link]](https://www.linkedin.com/in/mushaf-akkaya/)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+⭐️ Visit my profile at [[yourusername](https://github.com/yourusername).](https://github.com/MushafAkkaya)
