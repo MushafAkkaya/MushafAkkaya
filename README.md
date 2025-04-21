@@ -33,11 +33,6 @@ Tools & Others  => Git, Docker, Visual Studio, VS Code, IIS, Postman
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MushafAkkaya&layout=compact&theme=react&langs_count=8" alt="Top Languages" />
 </div>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MushafAkkaya&show_icons=true&theme=react" alt="GitHub Stats" />
-</div>
-
 ---
 
 ## 📫 How to Reach Me
